@@ -1,0 +1,7 @@
+# Ignore YOLOv8 segmentation model files
+yolov8m-seg*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
